@@ -31,18 +31,7 @@ const Testimonials = () => {
           transitionTime={600}
           showThumbs={false}
         >
-          <div className=" text-center p-3 bg-white shadow-md  max-w-xs mx-auto">
-            <img
-              src={test1}
-              alt="Client 1"
-              className="block mx-auto  mb-2 w-22 h-32 object-cover"
-            />
-            <p className="text-lg text-gray-700 mb-4">
-            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
-            </p>
-            <h4 className="font-semibold mt-4">Client Name</h4>
-            <span className="text-primary">Profession</span>
-          </div>
+        
 
           <div className="text-center p-3 bg-white shadow-md rounded-lg max-w-xs mx-auto">
             <img
@@ -53,8 +42,8 @@ const Testimonials = () => {
             <p className="text-lg text-gray-700 mb-4">
             Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
-            <h4 className="font-semibold mt-4">Client Name</h4>
-            <span className="text-primary">Profession</span>
+            <h4 className="font-semibold mt-4">Michael</h4>
+            <span className="text-primary">Developer</span>
           </div>
           <div className="text-center p-3 bg-white shadow-md rounded-lg max-w-xs mx-auto">
             <img
@@ -65,8 +54,8 @@ const Testimonials = () => {
             <p className="text-lg text-gray-700 mb-4">
             Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
-            <h4 className="font-semibold mt-4">Client Name</h4>
-            <span className="text-primary">Profession</span>
+            <h4 className="font-semibold mt-4">Nhlakanipho</h4>
+            <span className="text-primary">Developer</span>
           </div>
           <div className="text-center p-3 bg-white shadow-md rounded-lg max-w-xs mx-auto">
             <img
@@ -77,8 +66,8 @@ const Testimonials = () => {
             <p className="text-lg text-gray-700 mb-4">
             Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
-            <h4 className="font-semibold mt-4">Client Name</h4>
-            <span className="text-primary">Profession</span>
+            <h4 className="font-semibold mt-4">SamKay</h4>
+            <span className="text-primary">Developer</span>
           </div>
 
           <div className="text-center p-3 bg-white shadow-md rounded-lg max-w-xs mx-auto">
@@ -90,8 +79,8 @@ const Testimonials = () => {
             <p className="text-lg text-gray-700 mb-4">
             Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
-            <h4 className="font-semibold mt-4">Client Name</h4>
-            <span className="text-primary">Profession</span>
+            <h4 className="font-semibold mt-4">Nqobile</h4>
+            <span className="text-primary">Developer</span>
           </div>
         </Carousel>
       </div>
