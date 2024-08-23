@@ -56,9 +56,7 @@ const Hero = () => {
                       : "Innovative Solution For Security System"}
                   </h1>
                   <p className="text-xs sm:text-sm md:text-base lg:text-lg text-white mb-6 max-w-xs sm:max-w-sm md:max-w-md lg:max-w-2xl">
-                    Vero elitr justo clita lorem. Ipsum dolor at sed stet sit
-                    diam no. Kasd rebum ipsum et diam justo clita et kasd rebum
-                    sea elitr.
+                  A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film.
                   </p>
                   <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4">
                     <a

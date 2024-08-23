@@ -14,7 +14,7 @@ const WhyChooseUs = () => {
         <p className="mt-5 text-base md:text-sm">
           Time passes as the situation develops. Painful is the pain that sits.
           Some pain is with others. The situation is, and the text sits, but
-          often the text sits as two, rightly placed together.
+          often the text sits as two, rightly placed together , Securex.
         </p>
         <div className="mt-12 flex flex-col md:flex-row">
           <div className="flex flex-row md:flex-col items-start md:items-start mb-8 md:mb-0">

@@ -9,13 +9,13 @@ const TopStart = () => {
             <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center p-2">
               <i className="fas fa-map-marker-alt text-white text-xs"></i>
             </div>
-            <small className="text-gray-500">123 Street, New York, USA</small>
+            <small className="text-gray-500">41 Juta Street, Johannesburg, RSA</small>
           </div>
           <div className="flex items-center space-x-2">
             <div className="w-5 h-5 bg-primary rounded-full flex items-center justify-center p-1">
               <i className="fas fa-envelope-open text-white text-xs"></i>
             </div>
-            <small className="text-gray-500">info@example.com</small>
+            <small className="text-gray-500">info@tshimologong.com</small>
           </div>
         </div>
         <div className="flex items-center space-x-4">
