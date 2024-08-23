@@ -30,7 +30,7 @@ function ProductPage() {
           </ul>
 
           <div className="mb-6">
-            <span className="text-3xl font-semibold">$99.99</span>
+            <span className="text-3xl font-semibold">R3 299.99</span>
           </div>
 
           {/* Add to Cart Button */}
