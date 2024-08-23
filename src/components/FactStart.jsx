@@ -18,7 +18,7 @@ const FactStart = () => {
         </div>
         <h5 className="text-white text-lg">Home Security</h5>
         <hr className="w-1/4 border-white" />
-        <span className="text-white text-sm">Vero elitr justo clita lorem ipsum dolor at sed stet sit diam rebum ipsum et diam justo clita et</span>
+        <span className="text-white text-sm">A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film.</span>
       </div>
 
       {/* Container 2 */}
@@ -31,7 +31,7 @@ const FactStart = () => {
         </div>
         <h5 className="text-white text-lg">Access Control</h5>
         <hr className="w-1/4 border-white" />
-        <span className="text-white text-sm">Vero elitr justo clita lorem ipsum dolor at sed stet sit diam rebum ipsum et diam justo clita et</span>
+        <span className="text-white text-sm">A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film.</span>
       </div>
 
       {/* Container 3 */}
@@ -44,7 +44,7 @@ const FactStart = () => {
         </div>
         <h5 className="text-white text-lg">24/7 Support</h5>
         <hr className="w-1/4 border-white" />
-        <span className="text-white text-sm">Vero elitr justo clita lorem ipsum dolor at sed stet sit diam rebum ipsum et diam justo clita et</span>
+        <span className="text-white text-sm">A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film.</span>
       </div>
     </div>
   </div>
