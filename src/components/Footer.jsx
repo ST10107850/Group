@@ -4,10 +4,6 @@ function Footer() {
   return (
     <footer className="bg-gray-800 text-white py-8">
       <div className="container mx-auto text-center">
-        <p className="mb-4">
-          &copy; {new Date().getFullYear()} Your Company. All Rights Reserved.
-        </p>
-
         <div className="flex justify-center space-x-4 mb-4">
           <a
             href="https://facebook.com"
@@ -53,8 +49,15 @@ function Footer() {
           </a>
         </div>
 
-        <p>1234 Your Street, Your City, Your Country</p>
-        <p>Email: info@yourcompany.com | Phone: (123) 456-7890</p>
+        <p>41 Juta Street, Johannesburg, South Africa</p>
+        <p>Email: info@securex.co.za | Phone: (011) 456-7890</p>
+        <p>
+          <br />
+        </p>
+        <p>Privacy Policy | Term Of Service</p>
+        <p className="mb-4">
+          &copy; {new Date().getFullYear()} SECUREX. All Rights Reserved.
+        </p>
       </div>
     </footer>
   );

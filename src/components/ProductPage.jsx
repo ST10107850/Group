@@ -1,4 +1,4 @@
-import React from "react";
+import prod from "../assets/img/feature.jpg";
 
 function ProductPage() {
   return (
@@ -8,7 +8,7 @@ function ProductPage() {
         <div className="w-full md:w-1/2 px-4">
           <img
             className="w-full rounded-lg shadow-lg"
-            src="https://via.placeholder.com/400"
+            src={prod}
             alt="Product"
           />
         </div>
