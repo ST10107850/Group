@@ -1,0 +1,21 @@
+.carousel-item {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+  
+  .carousel-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+  
+  .container {
+    position: relative;
+    z-index: 2;
+  }
+  
