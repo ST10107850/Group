@@ -38,8 +38,7 @@ const Testimonials = () => {
               className="block mx-auto  mb-2 w-22 h-32 object-cover"
             />
             <p className="text-lg text-gray-700 mb-4">
-              Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo
-              duo labore sed sed. Magna ut .
+            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
             <h4 className="font-semibold mt-4">Client Name</h4>
             <span className="text-primary">Profession</span>
@@ -52,8 +51,7 @@ const Testimonials = () => {
               className="block mx-auto rounded-full mb-2 w-32 h-32 object-cover"
             />
             <p className="text-lg text-gray-700 mb-4">
-              Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo
-              duo labore sed sed. Magna ut .
+            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
             <h4 className="font-semibold mt-4">Client Name</h4>
             <span className="text-primary">Profession</span>
@@ -65,8 +63,7 @@ const Testimonials = () => {
               className="block mx-auto rounded-full mb-2 w-32 h-32 object-cover"
             />
             <p className="text-lg text-gray-700 mb-4">
-              Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo
-              duo labore sed sed. Magna ut .
+            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
             <h4 className="font-semibold mt-4">Client Name</h4>
             <span className="text-primary">Profession</span>
@@ -78,8 +75,7 @@ const Testimonials = () => {
               className=" block mx-auto rounded-full mb-2 w-32 h-32 object-cover"
             />
             <p className="text-lg text-gray-700 mb-4">
-              Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo
-              duo labore sed sed. Magna .
+            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
             <h4 className="font-semibold mt-4">Client Name</h4>
             <span className="text-primary">Profession</span>
@@ -92,8 +88,7 @@ const Testimonials = () => {
               className="block mx-auto rounded-full mb-2 w-32 h-32 object-cover"
             />
             <p className="text-lg text-gray-700 mb-4">
-              Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo
-              duo labore sed sed. Magna.
+            Working with this team has been a game-changer for our business. Their dedication, expertise, and innovative approach have significantly improved our project outcomes. .....
             </p>
             <h4 className="font-semibold mt-4">Client Name</h4>
             <span className="text-primary">Profession</span>
